@@ -6,6 +6,7 @@ __📊Project Overview__
 The dataset included detailed sales pipeline records, account information, products, and sales team data. Our analysis focused on key performance indicators such as deal outcomes, sales velocity, product performance, and team effectiveness across multiple dimensions.
 
 __📊Key Steps & Deliverables__
+
 ✅Data Preparation & Modeling:
 Imported and cleaned multiple datasets including accounts, sales pipeline, products, and sales teams. Established robust relationships, notably linking sales data to a custom-built Date Table for advanced time analysis.
 
