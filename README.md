@@ -5,6 +5,11 @@ This project presents a comprehensive analysis and interactive dashboard built w
 # __📊Project Overview__
 The dataset included detailed sales pipeline records, account information, products, and sales team data. Our analysis focused on key performance indicators such as deal outcomes, sales velocity, product performance, and team effectiveness across multiple dimensions.
 
+![Dashboard](photos/1.png)
+
+![Dashboard](photos/2.png)
+
+![Dashboard](photos/3.png)
 # __📊Key Steps & Deliverables__
 
 __✅Data Preparation & Modeling:__
