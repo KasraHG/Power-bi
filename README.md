@@ -16,25 +16,16 @@ Created DAX measures for crucial metrics like Total Closed Deal Value, Win Rate,
 __✅Time-Based Trend Analysis:__
 Visualized quarter-over-quarter trends in closed deal values and win counts to reveal seasonal patterns and growth opportunities. Calculated QoQ growth percentages to measure momentum and performance shifts.
 
-__✅Pipeline & Funnel Insights:__
-Developed a sales funnel analysis illustrating conversion rates across pipeline stages. Identified bottlenecks to prioritize process improvements.
-
-__✅Sales Team & Agent Performance:__
-Ranked sales teams and individual agents by revenue and deal counts. Highlighted top performers and underperformers with intuitive visuals and conditional formatting.
-
 __✅Product Analysis:__
 Examined win rates and revenue contribution by product, guiding product-focused strategies.
 
 __✅Time-to-Close Buckets:__
 Segmented deals into custom buckets based on sales cycle duration, offering insights into pipeline velocity and forecasting accuracy.
 
-__✅Data Quality Monitoring:__
-Implemented data completeness checks to flag missing critical information (e.g., missing account names or close dates), ensuring trustworthiness of analytics.
-
 __✅Tools & Technologies:__
 Power BI: For data integration, modeling, and visualization. Leveraged advanced DAX for dynamic metrics and calculated columns.
 
-__✅DAX (Data Analysis Expressions):__Custom formulas for performance metrics, rankings, and time intelligence.
+__✅DAX (Data Analysis Expressions):__ Custom formulas for performance metrics, rankings, and time intelligence.
 
 __✅Data Modeling:__ Established star schema with fact and dimension tables, including a dedicated Date Table for temporal analysis.
 
